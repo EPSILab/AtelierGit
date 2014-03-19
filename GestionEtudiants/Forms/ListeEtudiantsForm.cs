@@ -17,6 +17,7 @@ namespace GestionEtudiants.Forms
             int a = 0;
             int b = 2;
             int c = a + b;
+            int d = c + b;
         }
 
         private void btnModifier_Click(object sender, EventArgs e)
